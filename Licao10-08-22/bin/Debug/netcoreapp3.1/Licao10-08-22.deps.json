@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Licao10-08-22/1.0.0": {
+        "runtime": {
+          "Licao10-08-22.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Licao10-08-22/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
